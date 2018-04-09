@@ -4,6 +4,12 @@ h1 {
   text-align: center;
 }
 
+h2 {
+     border: 50px;
+     background-color: red;
+
+}
+
 body {
     /* The image used */
     background-image:url("paper.jpg");
